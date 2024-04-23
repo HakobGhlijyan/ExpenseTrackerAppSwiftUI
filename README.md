@@ -1,11 +1,11 @@
 # ExpenseTrackerAppSwiftUI
 Expense Tracker App Swift UI
 
-<div id="stat" align="center">
-<img src="https://github.com/HakobGhlijyan/ExpenseTrackerAppSwiftUI/blob/main/Ex/v1.gif" alt="The Unlimited" height="600" />
+<div id="stat0" align="leading">
+<img src="https://github.com/HakobGhlijyan/ExpenseTrackerAppSwiftUI/blob/main/Ex/v1.gif" width="400"/>
 </div>
 
-<div id="stat" align="center">
+<div id="stat" align="leading">
 <img src="https://github.com/HakobGhlijyan/ExpenseTrackerAppSwiftUI/blob/main/Ex/ph1.png" alt="The Unlimited" height="600" />
 <img src="https://github.com/HakobGhlijyan/ExpenseTrackerAppSwiftUI/blob/main/Ex/ph2.png" alt="The Unlimited" height="600" />
 <img src="https://github.com/HakobGhlijyan/ExpenseTrackerAppSwiftUI/blob/main/Ex/ph3.png" alt="The Unlimited" height="600" />
